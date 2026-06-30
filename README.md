@@ -36,7 +36,8 @@ The project focuses on creating a modern UI with smooth layouts, responsive beha
 
 ## 🚀 Getting Started
 
-Clone the repository:
+🚀 Live Demo:
+https://abdoo295.github.io/Clarity-Digital-Solutions/
 
-```bash
-git clone https://github.com/Abdoo295/Clarity-Digital-Solutions.git
+📌 Repository:
+https://github.com/Abdoo295/Clarity-Digital-Solutions
